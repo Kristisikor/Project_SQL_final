@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 CREATE VIEW price_increase AS
 SELECT 
   category,

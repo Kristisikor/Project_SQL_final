@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 SELECT 
     p.year, 
     ROUND(AVG(p.wage), 1) AS avg_wage, 

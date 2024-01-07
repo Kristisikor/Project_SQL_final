@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 CREATE TABLE t_Kristina_Sikorska_project_SQL_primary_final AS
 SELECT 
     cp.payroll_year AS year,

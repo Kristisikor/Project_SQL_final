@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 WITH milk AS (
   SELECT 
   	year, ROUND(AVG(wage)/AVG(price)) AS liters_of_milk

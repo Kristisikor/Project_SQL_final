@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 CREATE TABLE t_Kristina_Sikorska_project_SQL_secondary_final AS
 SELECT 
     e.year,

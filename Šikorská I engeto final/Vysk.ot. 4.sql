@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 CREATE VIEW wage_increase AS
 SELECT 
   industry,

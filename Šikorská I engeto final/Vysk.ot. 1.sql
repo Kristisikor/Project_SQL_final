@@ -1,3 +1,5 @@
+-- zdravechalko --
+
 SELECT 
 	industry, 
 	year, 
